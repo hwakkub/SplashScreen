@@ -11,6 +11,7 @@
 		380653FC2B4B2CE0006F94E3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 380653FB2B4B2CE0006F94E3 /* ContentView.swift */; };
 		380653FE2B4B2CE2006F94E3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 380653FD2B4B2CE2006F94E3 /* Assets.xcassets */; };
 		380654012B4B2CE2006F94E3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 380654002B4B2CE2006F94E3 /* Preview Assets.xcassets */; };
+		3806540A2B4B2D80006F94E3 /* SplashScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 380654092B4B2D80006F94E3 /* SplashScreenView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		380653FB2B4B2CE0006F94E3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		380653FD2B4B2CE2006F94E3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		380654002B4B2CE2006F94E3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		380654092B4B2D80006F94E3 /* SplashScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreenView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		380653F82B4B2CE0006F94E3 /* SplashScreen */ = {
 			isa = PBXGroup;
 			children = (
+				380654092B4B2D80006F94E3 /* SplashScreenView.swift */,
 				380653F92B4B2CE0006F94E3 /* SplashScreenApp.swift */,
 				380653FB2B4B2CE0006F94E3 /* ContentView.swift */,
 				380653FD2B4B2CE2006F94E3 /* Assets.xcassets */,
@@ -139,6 +142,7 @@
 			files = (
 				380653FC2B4B2CE0006F94E3 /* ContentView.swift in Sources */,
 				380653FA2B4B2CE0006F94E3 /* SplashScreenApp.swift in Sources */,
+				3806540A2B4B2D80006F94E3 /* SplashScreenView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
